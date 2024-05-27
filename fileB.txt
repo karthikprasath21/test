@@ -1,1 +1,2 @@
 fresh File B
+Check if branch exists on github
