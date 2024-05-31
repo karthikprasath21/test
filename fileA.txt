@@ -1,3 +1,1 @@
-Fresh file A
-local change
-Branch B
+branchB
